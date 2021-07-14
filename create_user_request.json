@@ -1,0 +1,19 @@
+{
+    "first_name":"Test First Name",
+    "last_name":"Test Last Name",
+    "username":"testUserName",
+    "password":"password",
+    "phone":"99887766",
+    "email":"test@test.com",
+    "leadTypeEntity": 
+        {
+            "lead_type_name" : "Warm Lead",
+            "lead_score" : 3
+        },
+    "roles": [
+        {
+            "role_name":"yo"
+        }
+    ],
+    "assigned" : 1
+}
